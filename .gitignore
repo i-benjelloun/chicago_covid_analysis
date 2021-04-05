@@ -1,0 +1,5 @@
+.ipynb_checkpoint
+*.pptx
+*.key
+*.pages
+.DS_Store
