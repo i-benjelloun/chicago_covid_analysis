@@ -1,5 +1,6 @@
-.ipynb_checkpoint
+.ipynb_checkpoints
 *.pptx
 *.key
 *.pages
 .DS_Store
+.py
